@@ -1,7 +1,7 @@
 # Low Level System Design - Cab booking like Uber/Ola/Grab etc.
 
 ### Problem Statement
-[Check here](problem-statment.md)
+[Check here](problem-statement.md)
 
 ### Project Requirements
 
