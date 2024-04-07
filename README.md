@@ -6,6 +6,9 @@
 ### Problem Statement
 [Check here](problem-statement.md)
 
+### Connect with me and my offerings:
+https://enginebogie.com/u/anomaly2104
+
 ### Project Requirements
 
 * JDK 1.8
